@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://pestfreehomes.xyz/sitemap_index.xml
